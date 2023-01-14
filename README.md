@@ -4,7 +4,7 @@
 
 ## Significant SNPs reported in the NHGRI-EBI GWAS catalog 
 
-Data is publicly available at <https://www.ebi.ac.uk/gwas/docs/file-downloads>; the specific download of the time-stamped dataset, [File Name,] is included here.
+Data is publicly available at <https://www.ebi.ac.uk/gwas/docs/file-downloads>; the specific download of the time-stamped dataset, [GWASCatalog_allassoc_29Nov2022release.RData](https://github.com/Paterson-Sun-Lab/eXclusionarY/blob/main/GWASCatalog_allassoc_29Nov2022release.RData) is included here.
 
 Code used to perform the analysis is [gwas_catalog_summary.R](https://github.com/Paterson-Sun-Lab/eXclusionarY/blob/main/gwas_catalog_summary.R).
 

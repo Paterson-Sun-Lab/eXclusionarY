@@ -1,5 +1,9 @@
 # eXclusionarY
 
+Sun L, Wang Z, Lu T, Manolio TA, Paterson AD (2023). [eXclusionarY: 10 years later, where are the sex chromosomes in GWASs?](https://www.cell.com/ajhg/fulltext/S0002-9297(23)00156-8). The American Journal of Human Genetics, Volume 110, Issue 6, 903 - 912.  
+
+---
+
 **This depository contains codes (and data) used for the analyses for the eXclusionarY commentary, including**
 
 ## Significant SNPs reported in the NHGRI-EBI GWAS catalog 
